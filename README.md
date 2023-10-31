@@ -1,1 +1,1 @@
-#Repo of practice website showcase for Resonate Solution
+# Repo of practice website showcase for Resonate Solution
